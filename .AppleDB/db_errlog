@@ -1,0 +1,126 @@
+BDB2525 No log files found
+BDB2526 Finding last valid log LSN: file: 1 offset 1693539
+BDB1518 Recovery complete at Tue Mar 14 01:50:09 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [1][1693447]
+BDB2526 Finding last valid log LSN: file: 2 offset 7799271
+BDB1518 Recovery complete at Tue Mar 14 06:26:55 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7799179]
+BDB2526 Finding last valid log LSN: file: 2 offset 7799399
+BDB1518 Recovery complete at Tue Mar 14 06:30:55 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7799307]
+BDB2526 Finding last valid log LSN: file: 2 offset 7799527
+BDB1518 Recovery complete at Tue Mar 14 18:26:08 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7799435]
+BDB2526 Finding last valid log LSN: file: 2 offset 7800963
+BDB1518 Recovery complete at Fri Mar 17 10:55:31 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7800871]
+BDB2526 Finding last valid log LSN: file: 2 offset 7869204
+BDB1518 Recovery complete at Wed Apr  5 10:54:22 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7869112]
+BDB2526 Finding last valid log LSN: file: 2 offset 7911344
+BDB1518 Recovery complete at Fri Apr  7 11:04:11 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7911252]
+BDB2526 Finding last valid log LSN: file: 2 offset 7912780
+BDB1518 Recovery complete at Mon Apr 10 10:57:29 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7912688]
+BDB2526 Finding last valid log LSN: file: 2 offset 7935669
+BDB1518 Recovery complete at Tue Apr 11 02:04:02 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7935577]
+BDB2526 Finding last valid log LSN: file: 2 offset 7937105
+BDB1518 Recovery complete at Tue Apr 11 09:11:16 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7937013]
+BDB2526 Finding last valid log LSN: file: 2 offset 7937197
+BDB1518 Recovery complete at Tue Apr 11 09:21:14 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7937141]
+BDB2526 Finding last valid log LSN: file: 2 offset 7947446
+BDB1518 Recovery complete at Wed Apr 12 03:01:40 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7947354]
+BDB2526 Finding last valid log LSN: file: 2 offset 7968206
+BDB1518 Recovery complete at Wed Apr 12 10:48:09 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7968114]
+BDB2526 Finding last valid log LSN: file: 2 offset 7969642
+BDB1518 Recovery complete at Mon Apr 17 19:30:01 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][7969550]
+BDB2526 Finding last valid log LSN: file: 2 offset 9152701
+BDB1518 Recovery complete at Mon Apr 17 19:38:54 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [2][9152609]
+BDB2526 Finding last valid log LSN: file: 3 offset 4700122
+BDB1518 Recovery complete at Mon Apr 17 21:06:55 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4700462]
+BDB2526 Finding last valid log LSN: file: 3 offset 4701558
+BDB1518 Recovery complete at Tue Apr 18 01:17:17 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4701898]
+BDB2526 Finding last valid log LSN: file: 3 offset 4702082
+BDB1518 Recovery complete at Tue Apr 18 01:48:56 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4702026]
+BDB2526 Finding last valid log LSN: file: 3 offset 4702210
+BDB1518 Recovery complete at Tue Apr 18 01:52:42 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4702154]
+BDB2526 Finding last valid log LSN: file: 3 offset 4702338
+BDB1518 Recovery complete at Tue Apr 18 01:17:18 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4702282]
+BDB2526 Finding last valid log LSN: file: 3 offset 4702466
+BDB1518 Recovery complete at Tue Apr 18 02:03:18 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4702410]
+BDB2526 Finding last valid log LSN: file: 3 offset 4703938
+BDB1518 Recovery complete at Tue Apr 18 06:51:38 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4703846]
+BDB2526 Finding last valid log LSN: file: 3 offset 4704066
+BDB1518 Recovery complete at Tue Apr 18 08:40:25 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4703974]
+BDB2526 Finding last valid log LSN: file: 3 offset 4704194
+BDB1518 Recovery complete at Tue Apr 18 10:29:13 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4704102]
+BDB2526 Finding last valid log LSN: file: 3 offset 4704322
+BDB1518 Recovery complete at Tue Apr 18 12:17:59 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4704230]
+BDB2526 Finding last valid log LSN: file: 3 offset 4704450
+BDB1518 Recovery complete at Tue Apr 18 14:07:03 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4704358]
+BDB2526 Finding last valid log LSN: file: 3 offset 4704578
+BDB1518 Recovery complete at Tue Apr 18 15:18:48 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4704486]
+BDB2526 Finding last valid log LSN: file: 3 offset 4706014
+BDB1518 Recovery complete at Tue Apr 18 20:07:11 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4705922]
+BDB2526 Finding last valid log LSN: file: 3 offset 4706142
+BDB1518 Recovery complete at Tue Apr 18 21:55:57 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4706050]
+BDB2526 Finding last valid log LSN: file: 3 offset 4706270
+BDB1518 Recovery complete at Tue Apr 18 22:12:27 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4706178]
+BDB2526 Finding last valid log LSN: file: 3 offset 4707274
+BDB1518 Recovery complete at Mon Apr 24 06:26:31 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4707614]
+BDB2526 Finding last valid log LSN: file: 3 offset 4828552
+BDB1518 Recovery complete at Wed Apr 26 00:50:28 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4828460]
+BDB2526 Finding last valid log LSN: file: 3 offset 4830997
+BDB1514 Recovery starting from [3][4829820]
+BDB1518 Recovery complete at Wed Apr 26 01:47:38 2017
+BDB1519 Maximum transaction ID 80000009 recovery checkpoint [3][4831337]
+BDB2526 Finding last valid log LSN: file: 3 offset 4835106
+BDB1518 Recovery complete at Thu Apr 27 15:25:56 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4835446]
+BDB2526 Finding last valid log LSN: file: 3 offset 4838163
+BDB1518 Recovery complete at Thu Apr 27 16:04:16 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4838071]
+BDB2526 Finding last valid log LSN: file: 3 offset 4843488
+BDB1518 Recovery complete at Thu Apr 27 20:21:54 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4843396]
+BDB2526 Finding last valid log LSN: file: 3 offset 4844492
+BDB1518 Recovery complete at Thu Apr 27 23:54:18 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4844832]
+BDB2526 Finding last valid log LSN: file: 3 offset 4847095
+BDB1514 Recovery starting from [3][4844924]
+BDB1518 Recovery complete at Fri Apr 28 00:08:50 2017
+BDB1519 Maximum transaction ID 80000008 recovery checkpoint [3][4847435]
+BDB2526 Finding last valid log LSN: file: 3 offset 4847655
+BDB1518 Recovery complete at Fri Apr 28 00:39:48 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4847563]
+BDB2526 Finding last valid log LSN: file: 3 offset 4855228
+BDB1518 Recovery complete at Mon May  1 21:32:30 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [3][4855136]
+BDB2526 Finding last valid log LSN: file: 6 offset 1613828
+BDB1518 Recovery complete at Mon May  1 21:53:48 2017
+BDB1519 Maximum transaction ID 0 recovery checkpoint [6][1613736]
